@@ -61,7 +61,7 @@ body{
     }
 }
 #showcase{
-    background-image: url('../img/showcase.jpg');
+    background-image: url('https://res.cloudinary.com/highereducation/image/upload/v1533591754/TheBestColleges.org/study-notebooks.jpg');
     background-size: cover;
     background-position: center;
     height: 38vh;
@@ -73,7 +73,7 @@ body{
     padding: 0 20px; 
 }
 #section-a{
-    background-image: url('../img/Photo.jpg');
+    background-image: url('https://res.cloudinary.com/highereducation/image/upload/v1533591754/TheBestColleges.org/study-notebooks.jpg');
     background-size: cover;
     background-position: center;
     height: 62vh;
